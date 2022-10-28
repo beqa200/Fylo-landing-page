@@ -1,3 +1,3 @@
-# Fylo-landing-page
-Junior Project
-## See result here https://mdjq3m.csb.app/
+# Fylo landing page
+
+### [Live Site](https://mdjq3m.csb.app/)
